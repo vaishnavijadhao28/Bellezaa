@@ -113,7 +113,7 @@
 /*----------------------------------------*/
 /*  1.1 Theme Default
 /*----------------------------------------*/
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Syne:wght@400..800&display=swap');
 .tp-product-tab-2 .nav-tabs .nav-link .tp-product-tab-tooltip, .tp-tab-line, .tp-offcanvas-area, .tp-offcanvas-social ul li a, .tp-offcanvas-2-left, .tp-offcanvas-2-right, .tp-offcanvas-2-close, .tp-offcanvas-2-close-btn .text, .tp-offcanvas-2-close-btn .text span, .tpoffcanvas__logo, .tpoffcanvas__right-info, .tpoffcanvas__social-link ul li a::before, .tp-swiper-dot .swiper-pagination-bullet, .tp-swiper-dot-border .swiper-pagination-bullet, .tp-swiper-scrollbar, .back-to-top-wrapper, a,
 button,
 p,
@@ -165,7 +165,7 @@ li,
   --tp-ff-p: 'Syne', sans-serif;
   --tp-ff-syne: 'Syne', sans-serif;
   --tp-ff-gallery: 'gallery_modernregular', sans-serif;
-  --tp-ff-shoulders: 'Big Shoulders Display', cursive;
+  --tp-ff-shoulders: 'Big Shoulders', cursive;
   --tp-ff-marcellus: 'Marcellus', sans-serif;
   --tp-ff-aladin: 'Aladin', system-ui;
   --tp-ff-fontawesome: "Font Awesome 6 Pro";
